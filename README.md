@@ -26,7 +26,7 @@ data.
 ## Project Structure
 
 ```text
-Tata_Internship/
+
   configs/
     full_dataset_yolo.yaml
     materials.yaml
@@ -341,3 +341,7 @@ The final detector is Ultralytics YOLO because it provided better practical
 performance and faster inference than the earlier Faster R-CNN model. The
 surrounding weight-estimation, audit, and web application layers remain
 separate from the detector implementation.
+
+## Author
+
+**Niki Nagaraju**
