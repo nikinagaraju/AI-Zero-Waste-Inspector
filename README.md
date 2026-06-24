@@ -1,4 +1,4 @@
-# Waste Material Detection And Weight Estimation
+# Automated Organic Resource and Mass Quantification System
 
 Python and React application for detecting waste materials with an
 Ultralytics YOLO model, estimating approximate material weight, and recording
